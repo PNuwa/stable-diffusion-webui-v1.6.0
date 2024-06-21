@@ -75,7 +75,30 @@ def webui():
                 auto_launch_browser = True
             elif shared.opts.auto_launch_browser == "Local":
                 auto_launch_browser = not cmd_opts.webui_is_non_local
+        print('部署成功，请从对应的端口内网穿透进入sd-webui，记得打赏作者 Nyan9哦')
         print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('部署成功，记得打赏作者 Nyan9哦')
+        print('肚子好饿饿！！')
+        print('求求哥哥姐姐们打赏，上天请给我赏口饭吃吧！！！')
+        print('已经吃不起饭了！！！！')
+        print('快要饿死在家里了！！！！！！！')
         app, local_url, share_url = shared.demo.launch(
             share=cmd_opts.share,
             server_name=initialize_util.gradio_server_name(),
