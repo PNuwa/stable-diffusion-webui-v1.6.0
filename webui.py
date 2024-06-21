@@ -98,7 +98,7 @@ def webui():
         print('肚子好饿饿！！')
         print('求求哥哥姐姐们打赏，上天请给我赏口饭吃吧！！！')
         print('已经吃不起饭了！！！！')
-        print('快要饿死在家里了！！！！！！！')
+        print('快要饿死在家里了！！！！！！！（哭）')
         app, local_url, share_url = shared.demo.launch(
             share=cmd_opts.share,
             server_name=initialize_util.gradio_server_name(),
