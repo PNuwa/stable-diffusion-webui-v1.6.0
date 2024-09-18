@@ -1,3 +1,4 @@
+## 此项目为Kaggle SD （https://www.kaggle.com/code/qq2575044704/stable-diffusion-webui-novelai-edited-version-2）的专属SD项目，自动从官方同步更新
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
